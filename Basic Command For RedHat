@@ -1,3 +1,10 @@
-How to Show Present Directory?
-pwd
-cd command
+01.				==RUN LEVEL==
+			init 0 [shuts down the system]
+			init 1 [single-user mode]
+			init 2 [multi-user mode without networking]
+			init 3 [multi-user mode with networking]
+			init 4 [user-definable]
+			init 5 [multi-user mode with networking]
+			init 6 [reboots the system to restart it]
+			
+	02.				" ~ " This is user home Directory 
